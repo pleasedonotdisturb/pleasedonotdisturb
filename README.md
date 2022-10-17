@@ -11,6 +11,7 @@ Nice to meet you :D
 ## My Socials
 * [Codepen](https://codepen.io/pleasedonotdisturb)
 * [Github](http://github.com/pleasedonotdisturb) (you're here!)
+* [Twitter](https://twitter.com/maybeScept3r)
 * [Other Links (via Linktree)](https://linktr.ee/scept3rdoesstuff)
 
 [^1]: Info redacted for privacy reasons.
