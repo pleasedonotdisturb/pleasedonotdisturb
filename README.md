@@ -15,4 +15,4 @@ Nice to meet you :D
 
 [^1]: Info redacted for privacy reasons.
 [^2]: Please check out [my blog archive via Notion](https://helloethan-blog-archive.notion.site/Welcome-to-the-Archive-085478d321694bdc938cf49d107c73c6) if you're interested in reading my past works.
-[^3]: Actually, it's not just that. It's a very long list.
+[^3]: Actually, it's not just my only favorite anime. It's actually a lengthy list.
