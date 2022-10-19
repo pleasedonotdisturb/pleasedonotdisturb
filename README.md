@@ -1,4 +1,4 @@
-# 👋 Hai, I’m Ethan aka @pleasedonotdisturb!
+# 👋 Hai! I’m Ethan aka Scept3r aka @pleasedonotdisturb.
 Nice to meet you :D
 
 ## Stuff about me:
