@@ -1,4 +1,4 @@
-# 👋 Hai! I’m Ethan aka Scept3r aka @pleasedonotdisturb.
+# 👋 Hello! I’m Ethan aka Scept3r aka @pleasedonotdisturb.
 Nice to meet you :D
 
 ## Some stuff about me:
@@ -7,7 +7,7 @@ Nice to meet you :D
 * I used to write design blogs, but sadly, not anymore[^2].
 * When I'm not coding, I'm into cosplaying;
 * Watching anime, especially _My Hero Academia and Blue Period_[^3]; or,
-* Watching VTubers, especially [*Luxiem*](https://youtu.be/W7SKtUCGYQk)
+* Watching VTubers, especially [NIJISANJI EN](https://nijisanji.jp/en/)[^4], [Hololive](http://hololive.hololivepro.com/en/) & [Holostars](https://holostars.hololivepro.com/), and [VShojo](https://www.vshojo.com/) (plus more that I couldn’t count no more :,))
 
 ## My Socials
 * [Codepen](https://codepen.io/pleasedonotdisturb)
@@ -18,3 +18,4 @@ Nice to meet you :D
 [^1]: Info redacted for privacy reasons.
 [^2]: Please check out [my blog archive on Notion](https://helloethan-blog-archive.notion.site/Welcome-to-the-Archive-085478d321694bdc938cf49d107c73c6) if you're interested.
 [^3]: It's not just those shows, it's a long list.
+[^4]: Rest in peace, Mysta Rias (2021–2023)
