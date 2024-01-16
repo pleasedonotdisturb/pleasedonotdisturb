@@ -13,7 +13,7 @@ Nice to meet you :D
 * [Codepen](https://codepen.io/pleasedonotdisturb)
 * [Github](http://github.com/pleasedonotdisturb) (you are here)
 * [Twitter](https://twitter.com/maybeScept3r)
-* [More Links (via Linktree)](https://linktr.ee/scept3rdoesstuff)
+* [More Links (via Bento)](https://bento.me/scept3rdoesstuff)
 
 [^1]: Info redacted for privacy reasons.
 [^2]: Please check out [my blog archive on Notion](https://helloethan-blog-archive.notion.site/Welcome-to-the-Archive-085478d321694bdc938cf49d107c73c6) if you're interested.
