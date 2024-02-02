@@ -18,4 +18,4 @@ Nice to meet you :D
 [^1]: Info redacted for privacy reasons.
 [^2]: Please check out [my blog archive on Notion](https://helloethan-blog-archive.notion.site/Welcome-to-the-Archive-085478d321694bdc938cf49d107c73c6) if you're interested.
 [^3]: Plus more that I couldn’t count.
-[^4]: Rest in peace, Mysta Rias (2021–2023)
+[^4]: Rest in peace, Mysta Rias (2021–2023) & Pomu Rainpuff (2021–2024)
