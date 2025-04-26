@@ -4,7 +4,7 @@ Nice to meet you :D
 ## Some stuff about me:
 * I'm currently a student in ████ ████[^1]. 
 * I learned how to write HTML & CSS when I was in Grade 7. Nowadays, I learn from YT tutorials.
-* I used to write design blogs, but sadly, not anymore[^2].
+* I used to own a design blog[^2], ~but sadly, not anymore.~ but now I’m writing again independently.
 * When I'm not coding, I'm into cosplaying, watching anime, and VTubers[^3].
 
 ## My Socials
